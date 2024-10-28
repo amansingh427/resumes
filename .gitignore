@@ -16,3 +16,7 @@ resume.xdv
 
 #fonts
 fonts/
+
+# python update script
+# used for copying to other folders in PC when updating resume
+update_file.py
