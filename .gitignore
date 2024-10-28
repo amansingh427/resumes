@@ -1,8 +1,9 @@
 # vscode settings folder
 .vscode
 
-# pdfs - doesn't play well with git
-*.pdf
+# pdfs - usually doesn't play well with git
+# added resume.pdf to git for github onlookers, but may not turn out right.
+aman_singh_resume.pdf
 
 #output files
 resume.aux
