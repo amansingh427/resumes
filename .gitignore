@@ -4,15 +4,16 @@
 # pdfs - usually doesn't play well with git
 # added resume.pdf to git for github onlookers, but may not turn out right.
 aman_singh_resume.pdf
+aman_singh_cv.pdf
 
-#output files
-resume.aux
-resume.fdb_latexmk
-resume.fls
-resume.log
-resume.out
-resume.synctex.gz
-resume.xdv
+# output files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.xdv
 
 #fonts
 fonts/
