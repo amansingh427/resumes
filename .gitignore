@@ -1,5 +1,8 @@
-# pdf - doesn't play well with git
-resume.pdf
+# vscode settings folder
+.vscode
+
+# pdfs - doesn't play well with git
+*.pdf
 
 #output files
 resume.aux
